@@ -6,7 +6,7 @@ import java.util.List;
 import org.w3c.dom.stylesheets.LinkStyle;
 
 public class Provider {
-void add()
+void mdk()
 {
 	System.out.println("hello are ");
 	List<Integer> clist= new ArrayList<>();
